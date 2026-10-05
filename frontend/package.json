@@ -1,0 +1,1 @@
+{"name":"spaceport-dispatch","private":true,"version":"1.0.0","type":"module","scripts":{"dev":"vite --host 127.0.0.1","build":"vite build","test":"vitest run"},"dependencies":{"react":"^19.0.0","react-dom":"^19.0.0"},"devDependencies":{"vite":"^7.0.0","vitest":"^3.2.0","jsdom":"^26.0.0","@testing-library/react":"^16.3.0","@testing-library/user-event":"^14.6.0"}}
